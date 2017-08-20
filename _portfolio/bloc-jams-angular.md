@@ -31,4 +31,4 @@ The results of not going too fast with this project, and instead, really trying 
 
 ## Conclusion
 
-I've realized one thing after my second project already: the coding journey will never end. Not least in the sense that, the learning will never end. Fascinating. What I like about coding as opposed to law is that it is skills-based, rather than knowledge-based. You need to know how to solve problems, not just the content of the law. Granted, that applies to both areas. However, in my personal experience, more to programming. 
+I've realized one thing after my second project already: the coding journey will never end. Not least in the sense that, the learning will never end. Fascinating. What I like about coding as opposed to law is that it is skills-based, rather than knowledge-based. You need to know how to solve problems, not just the content of the law. Granted, that applies to both areas. However, in my personal experience, more to programming.

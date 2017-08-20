@@ -31,4 +31,4 @@ Well - in the end it worked! I was able to show my friends the first little chat
 
 ## Conclusion
 
-The incredulous joy of being able to build something with skills that you have just recently been able to acquire is hard to beat. 
+The incredulous joy of being able to build something with skills that you have just recently been able to acquire is hard to beat.

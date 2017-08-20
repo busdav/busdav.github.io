@@ -1,0 +1,15 @@
+---
+layout: post
+title: Why I decided to learn how to code
+---
+Thinking back, this is actually not an easy question to answer. I'm now pretty much in the middle of the online part-time coding program I'm currently doing, and it's become second nature to do it. Doing this program is currently there all the time - I'm on it every day, almost every day. I've actually never experienced something quite like that. Sure, I needed to study before - if it was for a test that counted though, e.g. the bar exam, I would do that full-time, not before or after work.
+
+So, because of that, as it is the case with many things that become second-nature or just simply a habit, I sometimes forget why I started it in the first place.
+
+There's really two reasons for it. One, I am convinced that the areas of code, or technology, more generally speaking, and law, will merge. They are conceptually very close, and have been, for decades. They are both a system based on rules. Instructions, interpretation, execution, both in law, as in code. Language-, and logic-based. So it really was only a question of when these two areas would start to come closer to each other, which of course is a phenomenon that we now see when we look at the state of the legaltech industry. This development will only accelerate, is my projection. So, if that's true, how lost will a lawyer feel if she doesn't have any familiarity at all with one of these areas? It's like trying to run a triathlon but not knowing how to swim.
+
+And two, being able to code for me is an outlet into to the area of creativity. Let's be honest, and this is of course is my own personal opinion: the work of the average lawyer is not creative. We don't create transactions or deals. OK, to be fair, one could say we create outcomes. Negotiating with counterparties; signing, settling, convincing, drafting. Sure. But that's much more abstract than e.g. building something with Legos, and coding feels much more like the latter. It gives a sense of achievement that for me is hard to find in a purely legal function. Managing risk does not have the same creative feel to it as building a chat application in order to learn AngularJS. And learning is just the first part. Once you've acquired basic skills, you can actually go and start implementing ideas of your own. That's like, stopping to build Lego cars off instructions, and instead throwing all of your Legos in the middle, and start building whatever you would like. That this is possible is fascinating to me, and it seems a luxury compared to any productive endeavor for which you first need to invest into production means (whereas access to a computer is fairly easy to achieve).
+
+I think a third, underlying reason is really the fact that I *love* learning new stuff, stuff that I did not understand before, that might have even scared me, and see where it gets me. One of the things in life that I love.
+
+So, there you have it. Those are the three reasons why I decided to learn how to code. What are yours?
