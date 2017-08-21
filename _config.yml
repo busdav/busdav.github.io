@@ -14,7 +14,7 @@ theme_settings:
      <p>(I know, people say it the other way around. I'm a lawyer/b-school grad/programming apprentice starting to delve into coding.)</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+  #  Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
